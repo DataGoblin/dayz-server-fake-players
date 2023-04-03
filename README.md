@@ -7,3 +7,10 @@ You can code inject these opcodes at the stated address.
 
 The op code requires a hexidemical value which represents the total amount of players you wish to inject. 
 https://www.rapidtables.com/convert/number/decimal-to-hex.html
+
+
+# Notes
+
+This was a small passion project that I decided on to learn and mess around with memory and assembly code. 
+
+- I will not providing support due to the nature of "memory hacking". Addresses and such change around very often.
