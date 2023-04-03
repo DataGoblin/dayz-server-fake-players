@@ -13,4 +13,4 @@ https://www.rapidtables.com/convert/number/decimal-to-hex.html
 
 This was a small passion project that I decided on to learn and mess around with memory and assembly code. 
 
-- I will not providing support due to the nature of "memory hacking". Addresses and such change around very often.
+- I will not be providing support due to the nature of "memory hacking". Addresses and such change around very often.
